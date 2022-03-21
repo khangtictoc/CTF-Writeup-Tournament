@@ -13,6 +13,7 @@ Access checker program: nc saturn.picoctf.net 52279
 ### Solution: 💯
 
 This challenge teach us more about forensic on a **image** file system. Tool use: `mmls`
+Extract file **gzip** extension: `gzip -d disk.img.gz`
 Use mmls to find the size of the Linux partition: `mmls disk.img`
 Out put:
 ```
