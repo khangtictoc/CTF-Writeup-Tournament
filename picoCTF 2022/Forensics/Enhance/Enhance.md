@@ -53,5 +53,5 @@ id="tspan3748">p </tspan><tspan
 
 #### The Flag (for reference): ✔️
 ```
-picoCTF{mm15_f7w!}
+picoCTF{3nh4nc3d_58bd3420}
 ```
