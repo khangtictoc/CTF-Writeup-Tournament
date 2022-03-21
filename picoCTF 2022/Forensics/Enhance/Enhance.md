@@ -4,9 +4,9 @@
 
 **Point:** 100 points
 
-**Description:** AUTHOR: ZARATEC/DANNY<br>
-Download this image file and find the flag.
-Download image file
+**Description:** 
+Download this image file and find the flag.<br>
+[Download image file](drawing.flag.svg)
 
 ### Solution: 💯
 
