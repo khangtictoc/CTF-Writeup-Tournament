@@ -6,7 +6,7 @@
 
 **Description:** 
 Download the packet capture file and use packet analysis software to find the flag.
-[Download packet capture]
+[Download packet capture](network-dump.flag.pcap)
 
 ### Solution: 💯
 
