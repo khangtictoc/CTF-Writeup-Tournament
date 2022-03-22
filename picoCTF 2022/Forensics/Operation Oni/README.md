@@ -12,9 +12,9 @@ Remote machine: ssh -i key_file -p 61248 ctf-player@saturn.picoctf.net
 
 ### Solution: 💯
 
-Extract file: `gzip -d disk.img.gz`
-
 This challenge examine whether you know `ssh` with `private key` or not. Extract file **gzip** extension: `gzip -d disk.img.gz`
+
+Extract file: `gzip -d disk.img.gz`
 
 A **Disk Image Data File** (.img) again. In this chall, we have to show all the folder structure of the image, find and read the flag. There are many way to do this. Normally, we often clone this image and mount it into a loopback device **(/dev/loop)** and move to there to read all the content. But I will use the most convenient and powerful tool to make this quick.
 
