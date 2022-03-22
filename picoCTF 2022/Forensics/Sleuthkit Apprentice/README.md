@@ -11,6 +11,8 @@ Note: if you are using the webshell, download and extract the disk image into /t
 
 ### Solution: 💯
 
+Extract file **gzip** extension: `gzip -d disk.flag.img.gz`
+
 A **Disk Image Data File** (.img) again. In this chall, we have to show all the folder structure of the image, find and read the flag. There are many way to do this. Normally, we often clone this image and mount it into a loopback device **(/dev/loop)** and move to there to read all the content. But I will use the most convenient and powerful tool to make this quick.
 
 Install and using [AutoSpy](https://www.sleuthkit.org/autopsy/). Create a "case" project with optional name and choose folder to store -> Skip "Optional Information" -> Generate new host name based on data source name -> Disk Image or VM file -> Select path to "disk.flag.img" -> Next -> Finish
