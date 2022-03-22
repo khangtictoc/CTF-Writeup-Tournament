@@ -5,9 +5,9 @@
 **Point:** 300 points
 
 **Description:** 
-Download this disk image, find the key and log into the remote machine.
-Note: if you are using the webshell, download and extract the disk image into /tmp not your home directory.
-[Download disk image](https://mega.nz/file/4s1XxDYA#TBWI6IaqCNslV5j_dbxmupYhx36wC3o_Iagd0WZ_Al4)
+Download this disk image, find the key and log into the remote machine. <br>
+Note: if you are using the webshell, download and extract the disk image into /tmp not your home directory.<br>
+[Download disk image](https://mega.nz/file/4s1XxDYA#TBWI6IaqCNslV5j_dbxmupYhx36wC3o_Iagd0WZ_Al4)<br>
 Remote machine: ssh -i key_file -p 61248 ctf-player@saturn.picoctf.net
 
 ### Solution: 💯
