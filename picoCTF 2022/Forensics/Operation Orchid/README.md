@@ -7,7 +7,7 @@
 **Description:** 
 Download this disk image and find the flag.<br>
 Note: if you are using the webshell, download and extract the disk image into /tmp not your home directory.<br>
-[Download compressed disk image]()
+[Download compressed disk image](https://mega.nz/file/9gkkwBTL#2CajCIPne49ujCu9B6dnoqIG8L643c0ATKm6R5P-j30)
 
 ### Solution: 💯
 
