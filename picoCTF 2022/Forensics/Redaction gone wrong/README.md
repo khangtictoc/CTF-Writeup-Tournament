@@ -6,7 +6,7 @@
 
 **Description:** 
 Now you DON’T see me.
-[This]() report has some critical data in it, some of which have been redacted correctly, while some were not. Can you find an important key that was not redacted properly?
+[This](Financial_Report_for_ABC_Labs.pdf) report has some critical data in it, some of which have been redacted correctly, while some were not. Can you find an important key that was not redacted properly?
 
 ### Solution: 💯
 
