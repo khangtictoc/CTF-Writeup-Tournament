@@ -24,7 +24,7 @@ Undone:
 - Live Art (500)
 - noted (500)
 
-### Forensics:
+### Forensics: (11/13 Challenges)
 - Enhance! (100)
 - File types (100)
 - Lookey here (100)
