@@ -44,4 +44,4 @@ Undone:
 ## Bình luận:
 Giải picoCTF 2022 vẫn giữ đặc trưng là không khó, sử dụng hiểu biết kiến thức và công nghệ là nhiều và dừng lại ở vận dụng. Đợt này có nhiều câu ở mức basic bị trùng lặp như các bài tập về Cookie; inspect DOM, HTML element vẫn không thay đổi
 
-Các bài "khó" và nhiều điểm nhất mình vẫn chưa làm được và mình vẫn cảm thấy khá thách thức. Sau khi giải kết thúc mình sẽ học hỏi thêm từ việc đi lượm write-up của mấy Pro-player (¬‿¬). Nhìn chung, giải này phù hợp với các bạn lứa cấp 3. Và có tác dụng "thẩm du tinh thần" cho mấy bạn đại học (͠≖ ͜ʖ͠≖)👌
+Các bài "khó" và nhiều điểm nhất mình vẫn chưa làm được và mình vẫn cảm thấy khá thách thức và "cùi bắp". Sau khi giải kết thúc mình sẽ học hỏi thêm từ việc đi lượm write-up của mấy Pro-player (¬‿¬). Nhìn chung, giải này phù hợp với các bạn lứa cấp 3. Và có tác dụng "thẩm du tinh thần" cho mấy bạn đại học (͠≖ ͜ʖ͠≖)👌
