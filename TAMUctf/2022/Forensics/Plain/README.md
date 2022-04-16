@@ -6,7 +6,7 @@
 
 Someone logged into my computer and stole my flag. Can you get it back for me?
 
-File: []()
+File: [Plain](plain.zip)
 
 ## Solution:
 
