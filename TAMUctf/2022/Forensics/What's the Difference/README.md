@@ -25,7 +25,7 @@ git log .
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/48288606/163671453-d16aa299-b472-4cb7-a1a4-e2a0b8245b3d.png"></p>
 
-"Whoops wrong flag" ?? Maybe this guy commit our flag to this. Read the **commit** content with _id_object_ is `0b055455560bce16787d2e2a7b0ae36b3ddd2b35`
+"Whoops wrong flag" ?? Maybe this guy commit solved flag to this. Read the **commit** content with _id_object_ is `0b055455560bce16787d2e2a7b0ae36b3ddd2b35`
 
 ```bash
 git show 0b055455560bce16787d2e2a7b0ae36b3ddd2b35
