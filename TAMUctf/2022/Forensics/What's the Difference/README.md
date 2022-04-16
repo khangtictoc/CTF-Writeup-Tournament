@@ -4,6 +4,8 @@
 
 I made a mistake while making a writeup for a challenge from MetaCTF 2021. Can you find it?
 
+File: [whats-the-difference.zip](whats-the-difference.zip)
+
 ## Solution:
 
 The title "What's the Difference" gives a clue about the different content when committing codes. There's also a folder `.git`  containing all information that is necessary for the project. So this chall wants us to take insight into repo's info, we could execute command to view these data. 
