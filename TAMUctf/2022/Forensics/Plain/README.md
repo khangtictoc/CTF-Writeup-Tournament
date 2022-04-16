@@ -1,7 +1,5 @@
 # Plain
 
-**Point**: 100
-
 **Author**: SwitchBlade
 
 Someone logged into my computer and stole my flag. Can you get it back for me?
