@@ -6,7 +6,7 @@ I let Firefox save some of my stuff while browsing, it should be written somewhe
 
 Author: Pixel#1111
 
-File: []()
+File: [Firefox.zip](Firefox.zip)
 
 ## Solution:
 
