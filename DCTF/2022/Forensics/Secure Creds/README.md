@@ -1,5 +1,13 @@
 # Secure Creds
 
+**Point**: 100
+
+With the connection to the victim's computer you managed to dump the lsass.exe process. Can you get the password from the dump file?
+
+**Author**: Pixel#1111
+
+File: [lsass.zip](lsass.zip)
+
 ## Basic Knowledge:
 
 Check file dump:
