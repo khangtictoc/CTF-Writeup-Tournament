@@ -55,7 +55,7 @@ All the worth-mentioning colunmns are listed [here](http://kb.mozillazine.org/Pl
 
 The right columns is `moz_places`:
 
-```bash
+```
 sqlite> select * from moz_places;
 1|https://support.mozilla.org/products/firefox||gro.allizom.troppus.|0|0|0|140||bew1ljtsvWMG|1|47358327123126||||1
 2|https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize||gro.allizom.troppus.|0|0|0|140||2-8jSXGE10oO|1|47359956450016||||1
